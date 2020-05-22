@@ -10,6 +10,16 @@ A better designed, optimally developed and hence more powerful credit risk score
 
 ## Outlines
 - Exploratory data analysis
+  - Univariate analysis
+  - Bivariate analysis
+
 - Model specification
+  - Linear regression (spline terms)
+  - Other Machine learning algorithms
+  - Tuning parameters
+
 - Performance measurement
+  - AUC, KS separation max, confusion matrix
+  - Dollar loss analysis
+  
 - Future enhancement
